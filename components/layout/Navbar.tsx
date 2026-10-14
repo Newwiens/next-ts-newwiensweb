@@ -8,8 +8,8 @@ export function Navbar() {
 
         <div className="flex-items-center gap-10">
           <Link href="/">Home</Link>
-          <Link href="/about">About</Link>
-          <Link href="/projects">Projects</Link>
+          <Link href="/#about">About</Link>
+          <Link href="/#projects">Projects</Link>
           <Link href="/linkedin">Linkedin</Link>
         </div>
       </nav>
