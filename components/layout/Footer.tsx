@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export function Footer() {
   return (
-    <footer className="bg-amber-600">
+    <footer className="site-container bg-amber-600">
       <div>
         <p className="text-sm">© NEWWIENSWEB 2026 </p>
 
