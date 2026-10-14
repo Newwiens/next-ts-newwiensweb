@@ -4,7 +4,7 @@ export function Footer() {
   return (
     <footer className="bg-amber-600">
       <div>
-        <p className="text-sm">© {new Date().getFullYear()} NEWWIENSWEB</p>
+        <p className="text-sm">© NEWWIENSWEB 2026 </p>
 
         <div>
           <Link href="/privacy">Privacy Police</Link>
