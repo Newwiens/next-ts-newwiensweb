@@ -7,7 +7,7 @@ export function Hero() {
       id="hero"
       className="relative w-full overflow-hidden bg-foreground text-background"
     >
-      <div className="site-container relative flex min-h-[480px] flex-col justify-between pt-20 pb-8">
+      <div className="site-container relative flex min-h-120 flex-col justify-between pt-20 pb-8">
         {/* Naam en functie */}
         <div className="relative z-10 flex items-start gap-8">
           <p className="mt-3 shrink-0 text-sm leading-tight">
@@ -26,7 +26,7 @@ export function Hero() {
           className="
   pointer-events-none absolute bottom-0 z-20
   left-160 
-  h-[420px] w-[420px] overflow-hidden
+  h-105 w-105 overflow-hidden
 "
         >
           <Image
